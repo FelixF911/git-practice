@@ -1,4 +1,4 @@
 Name: Felix Funke
 Age: 26
 Favorite Color: White
-git
+Favorite Animal: Dogs
